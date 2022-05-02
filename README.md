@@ -1,6 +1,6 @@
 # ETF_Trading_WRDS_TAQM
 
-Present pitch book and part of the code
+Present pitch book see (pitch book pdf) and part of the code (Technical paper)
 
 ## Drivers of the ETF Prices
 
