@@ -32,7 +32,4 @@ Given the primary and secondary market dynamics for ETFs, the following factors 
 4.	**Level of underlying asset market volatility and liquidity**
   - Exactly how confident is the AP that it can transact in the underlying securities on the open market at prices equal to or better than NAV prices?
   
-
-The previous figure of SPY vs. HYG NAV Premium/Discounts generalizes for ETFs on assets with high standardization and liquidity vs. other assets. Larger, more persistent, and more volatile NAV Premiums/Discounts tend to exist where the underlying assets are characterized by less liquidity and more price uncertainty. 
-
 In this framework, we find US-listed **corporate bond ETFs** to be a particularly interesting area of study and especially in the year **2020** with the pandemic involving a lot of illiquidity.
