@@ -1,6 +1,6 @@
 # ETF_Trading_WRDS_TAQM
 
-Present pitch book see (pitch book pdf) and part of the code (Technical paper)
+Present pitch book see [pitch book pdf](https://github.com/divinewyk/ETF_Trading_High_Frequency/blob/main/Technical%20Paper%20Notebook.pdf) and part of the code (Technical paper)
 
 ## Drivers of the ETF Prices
 
